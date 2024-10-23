@@ -115,8 +115,8 @@ button{
         width: 190px;
     }
 
-    #vantagem{
-        font-size: 20px;
+    .card #vantagem{
+        font-size: 20px;        
     }
         
 }
