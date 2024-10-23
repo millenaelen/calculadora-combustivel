@@ -107,12 +107,16 @@ button{
     }
 
     .imgPainel{
-        height: 300px;
+        height: 220px;
         width: 100%;
     }
 
     button{
         width: 190px;
+    }
+
+    #vantagem{
+        font-size: 20px;
     }
         
 }
