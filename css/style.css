@@ -98,6 +98,12 @@ button{
 
     .card{
         padding: 30px;
+        width: 100%;
+        box-sizing: border-box;
+
+        h1{
+            font-size: 30px;
+        }
     }
 
     .imgPainel{
